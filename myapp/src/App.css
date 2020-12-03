@@ -1,0 +1,35 @@
+.name{
+  color: brown;
+  font-size: 50px;
+  text-align: center;
+}
+
+.heading {
+  height: 100vh;
+  color: #fff;
+  background-color: darkseagreen;
+  text-align: center;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.discription {
+
+  color: darkviolet;
+  text-transform: uppercase;
+
+}
+
+.button {
+
+  margin: 5px;
+  padding: 10px 20px 10px 20px;
+  background-color: firebrick;
+  color: #fff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: black;
+}
